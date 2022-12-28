@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/26963737/209750779-1e4919c5-d65c-4705-
 ## Error: 
 If you run the project and found Package error then please go to File -> Packages -> Reset Package Caches (It will download package in your xcode.) 👍
 
-## Resources
+## Resources:
 - Lottie Files: https://lottiefiles.com
 
 ## Say Hi on Social Media:

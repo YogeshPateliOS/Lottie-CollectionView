@@ -8,22 +8,43 @@
 
 /* Begin PBXBuildFile section */
 		901B2E11295AAC7400C5EDDE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B2E10295AAC7400C5EDDE /* AppDelegate.swift */; };
-		901B2E13295AAC7400C5EDDE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B2E12295AAC7400C5EDDE /* SceneDelegate.swift */; };
 		901B2E15295AAC7400C5EDDE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B2E14295AAC7400C5EDDE /* ViewController.swift */; };
 		901B2E18295AAC7400C5EDDE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E16295AAC7400C5EDDE /* Main.storyboard */; };
 		901B2E1A295AAC7500C5EDDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E19295AAC7500C5EDDE /* Assets.xcassets */; };
 		901B2E1D295AAC7500C5EDDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E1B295AAC7500C5EDDE /* LaunchScreen.storyboard */; };
+		901B2E26295AAD0700C5EDDE /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 901B2E25295AAD0700C5EDDE /* Lottie */; };
+		901B2E2A295AAE1D00C5EDDE /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B2E29295AAE1D00C5EDDE /* CollectionViewCell.swift */; };
+		901B2E44295AB53E00C5EDDE /* 4.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E3E295AB53E00C5EDDE /* 4.json */; };
+		901B2E47295AB53E00C5EDDE /* 6.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E41295AB53E00C5EDDE /* 6.json */; };
+		901B2E49295AB53E00C5EDDE /* 5.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E43295AB53E00C5EDDE /* 5.json */; };
+		901B2E51295AB54C00C5EDDE /* 1.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E4B295AB54C00C5EDDE /* 1.json */; };
+		901B2E52295AB54C00C5EDDE /* 2.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E4C295AB54C00C5EDDE /* 2.json */; };
+		901B2E55295AB54C00C5EDDE /* 3.json in Resources */ = {isa = PBXBuildFile; fileRef = 901B2E4F295AB54C00C5EDDE /* 3.json */; };
+		901B2E57295AB64C00C5EDDE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B2E56295AB64C00C5EDDE /* SceneDelegate.swift */; };
+		90216C8F295B97360079710E /* 8.json in Resources */ = {isa = PBXBuildFile; fileRef = 90216C8B295B97360079710E /* 8.json */; };
+		90216C90295B97360079710E /* 7.json in Resources */ = {isa = PBXBuildFile; fileRef = 90216C8C295B97360079710E /* 7.json */; };
+		90216C96295BBD5A0079710E /* 9.json in Resources */ = {isa = PBXBuildFile; fileRef = 90216C95295BBD5A0079710E /* 9.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		901B2E0D295AAC7400C5EDDE /* Lottie CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lottie CollectionView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		901B2E10295AAC7400C5EDDE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		901B2E12295AAC7400C5EDDE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		901B2E14295AAC7400C5EDDE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		901B2E17295AAC7400C5EDDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		901B2E19295AAC7500C5EDDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		901B2E1C295AAC7500C5EDDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		901B2E1E295AAC7500C5EDDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		901B2E29295AAE1D00C5EDDE /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		901B2E3E295AB53E00C5EDDE /* 4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 4.json; sourceTree = "<group>"; };
+		901B2E41295AB53E00C5EDDE /* 6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 6.json; sourceTree = "<group>"; };
+		901B2E43295AB53E00C5EDDE /* 5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 5.json; sourceTree = "<group>"; };
+		901B2E4B295AB54C00C5EDDE /* 1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1.json; sourceTree = "<group>"; };
+		901B2E4C295AB54C00C5EDDE /* 2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2.json; sourceTree = "<group>"; };
+		901B2E4F295AB54C00C5EDDE /* 3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 3.json; sourceTree = "<group>"; };
+		901B2E56295AB64C00C5EDDE /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		90216C8B295B97360079710E /* 8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 8.json; sourceTree = "<group>"; };
+		90216C8C295B97360079710E /* 7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 7.json; sourceTree = "<group>"; };
+		90216C95295BBD5A0079710E /* 9.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 9.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +52,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				901B2E26295AAD0700C5EDDE /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,15 +78,33 @@
 		901B2E0F295AAC7400C5EDDE /* Lottie CollectionView */ = {
 			isa = PBXGroup;
 			children = (
+				901B2E2B295AB22500C5EDDE /* Lottie Resources */,
 				901B2E10295AAC7400C5EDDE /* AppDelegate.swift */,
-				901B2E12295AAC7400C5EDDE /* SceneDelegate.swift */,
+				901B2E56295AB64C00C5EDDE /* SceneDelegate.swift */,
 				901B2E14295AAC7400C5EDDE /* ViewController.swift */,
 				901B2E16295AAC7400C5EDDE /* Main.storyboard */,
 				901B2E19295AAC7500C5EDDE /* Assets.xcassets */,
 				901B2E1B295AAC7500C5EDDE /* LaunchScreen.storyboard */,
 				901B2E1E295AAC7500C5EDDE /* Info.plist */,
+				901B2E29295AAE1D00C5EDDE /* CollectionViewCell.swift */,
 			);
 			path = "Lottie CollectionView";
+			sourceTree = "<group>";
+		};
+		901B2E2B295AB22500C5EDDE /* Lottie Resources */ = {
+			isa = PBXGroup;
+			children = (
+				901B2E4F295AB54C00C5EDDE /* 3.json */,
+				901B2E4C295AB54C00C5EDDE /* 2.json */,
+				901B2E4B295AB54C00C5EDDE /* 1.json */,
+				901B2E3E295AB53E00C5EDDE /* 4.json */,
+				901B2E43295AB53E00C5EDDE /* 5.json */,
+				901B2E41295AB53E00C5EDDE /* 6.json */,
+				90216C8C295B97360079710E /* 7.json */,
+				90216C8B295B97360079710E /* 8.json */,
+				90216C95295BBD5A0079710E /* 9.json */,
+			);
+			path = "Lottie Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +123,9 @@
 			dependencies = (
 			);
 			name = "Lottie CollectionView";
+			packageProductDependencies = (
+				901B2E25295AAD0700C5EDDE /* Lottie */,
+			);
 			productName = "Lottie CollectionView";
 			productReference = 901B2E0D295AAC7400C5EDDE /* Lottie CollectionView.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +154,9 @@
 				Base,
 			);
 			mainGroup = 901B2E04295AAC7400C5EDDE;
+			packageReferences = (
+				901B2E24295AAD0700C5EDDE /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
 			productRefGroup = 901B2E0E295AAC7400C5EDDE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,9 +171,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				901B2E47295AB53E00C5EDDE /* 6.json in Resources */,
+				901B2E49295AB53E00C5EDDE /* 5.json in Resources */,
 				901B2E1D295AAC7500C5EDDE /* LaunchScreen.storyboard in Resources */,
+				90216C96295BBD5A0079710E /* 9.json in Resources */,
 				901B2E1A295AAC7500C5EDDE /* Assets.xcassets in Resources */,
+				901B2E55295AB54C00C5EDDE /* 3.json in Resources */,
+				90216C8F295B97360079710E /* 8.json in Resources */,
+				901B2E52295AB54C00C5EDDE /* 2.json in Resources */,
 				901B2E18295AAC7400C5EDDE /* Main.storyboard in Resources */,
+				90216C90295B97360079710E /* 7.json in Resources */,
+				901B2E44295AB53E00C5EDDE /* 4.json in Resources */,
+				901B2E51295AB54C00C5EDDE /* 1.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,7 +195,8 @@
 			files = (
 				901B2E15295AAC7400C5EDDE /* ViewController.swift in Sources */,
 				901B2E11295AAC7400C5EDDE /* AppDelegate.swift in Sources */,
-				901B2E13295AAC7400C5EDDE /* SceneDelegate.swift in Sources */,
+				901B2E2A295AAE1D00C5EDDE /* CollectionViewCell.swift in Sources */,
+				901B2E57295AB64C00C5EDDE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -358,6 +414,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		901B2E24295AAD0700C5EDDE /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		901B2E25295AAD0700C5EDDE /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 901B2E24295AAD0700C5EDDE /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 901B2E05295AAC7400C5EDDE /* Project object */;
 }
